@@ -10,5 +10,5 @@ Check out this link ->
 
 ## View Live App at 
 
-<a href=" https://arokianivin09.github.io/Travel_Fare_Information_portal/">:octocat: Travel Fare Information Portal App :octocat:</a> 
+<a href="https://arokianivin09.github.io/Travel_Fare_Information_portal/">:octocat: Travel Fare Information Portal App :octocat:</a> 
 
