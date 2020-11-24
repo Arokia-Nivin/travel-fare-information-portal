@@ -103,6 +103,8 @@
 	margin: 0 45%;
 	text-decoration: none;
 	font-size: large;
+	position: absolute; 
+	z-index:2; 
 }
 
 .highway {
