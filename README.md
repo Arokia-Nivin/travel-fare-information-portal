@@ -5,6 +5,7 @@
 The idea behind this app is to display the approximate fare of traveling between a source and destination location and helps users to choose the ideal mode of transportation. 
 The Objective of this app is to prevent cheating in fares which are taken by auto-rickshaw and taxi owners. 
 This App also has other features. 
+This App was built on account of a hackathon.  
 
 
 
