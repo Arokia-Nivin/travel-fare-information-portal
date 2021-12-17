@@ -11,5 +11,5 @@ This App was built on account of a hackathon.
 
 ## View Live App at 
 
-<a href="https://ezioauditore-dafirenze.github.io/travel-fare-information-portal/">:octocat: Travel Fare Information Portal App :octocat:</a> 
+<a href="https://arokia-nivin.github.io/travel-fare-information-portal/">:octocat: Travel Fare Information Portal App :octocat:</a> 
 
